@@ -54,3 +54,17 @@ print(person)
 
 # get length
 print(len(person2))
+
+
+# list of dicts
+# similar to array of objects
+
+
+people = [
+    {'name': 'bob', 'age': '33'},
+    {'name': 'john', 'age': '25'},
+]
+
+print(people)
+
+print(people[1]['name'])

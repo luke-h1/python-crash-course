@@ -52,4 +52,4 @@ fruits_set.clear()
 
 # delete set
 
-del fruits_set
+del fruits_setf
